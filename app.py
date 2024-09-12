@@ -8,7 +8,8 @@ st.write("# Predictive maintenance")
 
 st.sidebar.success("Report pages")
 
-st.markdown(""" 
+st.markdown("""
+**Miling machine**
 data : https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
 S. Matzka, Explainable Artificial Intelligence for Predictive Maintenance Applications,
 2020 Third International Conference on Artificial Intelligence for Industries (AI4I), 
